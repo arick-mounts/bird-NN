@@ -1,15 +1,4 @@
 
-##To Do
-##
-##Implement pipe obstacles
-##
-##Implement scoring system
-##if past pipe & has_scored == false then score; has_scored = true
-##
-##on pipe reset to right of screen set has scored = false
-##
-##set up Neural Network
-##
 ##
 ##import pygame, tensor flow, and keras
 ##
